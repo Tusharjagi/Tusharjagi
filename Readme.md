@@ -92,11 +92,6 @@
   <a href="https://docs.github.com/en" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
-    <a href="https://docs.docker.com/" target="_blank">
-    <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"
-      alt="docker"/>
-  </a>
-
 </p>
 
 <h3 align="center">👉 Preferred IDEs  & Tools :</h3>
