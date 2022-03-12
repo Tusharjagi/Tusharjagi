@@ -31,10 +31,6 @@
       alt="javascript"/> 
   </a>
   </a>
-  <a href="https://www.java.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
-      alt="java"/> 
-  </a>
   <a href="https://www.typescriptlang.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"
       alt="typescript"/>
