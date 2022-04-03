@@ -111,13 +111,13 @@
 </p>
 
 <h3 align="center">👉 Data Science & AI</h3>
+<p align="center">
+<a><i> I would to like explore more software and tools in future . </i></a>
+</p>
 <p align="center"> 
   <a href="https://www.gnu.org/software/octave/" target="_blank">
     <img src="https://img.shields.io/badge/octave-023456.svg?style=for-the-badge&logo=octave&logoColor=white" alt="octave"/> 
   <a/>
-</p>
-<p align="center">
-<a><i>Currently I working on a Octave, But over a next few Month I would working on those tools . </i></a>
 </p>
 <p align="center">  
   <a href="https://pytorch.org/" target="_blank">
