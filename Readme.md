@@ -115,7 +115,7 @@
 
 <h3 align="center">👉 ML & AI</h3>
 <p align="center">
-<a><i> I little bit work on octave. </i></a>
+<a><i> I little bit familiar on octave. </i></a>
 </p>
 <p align="center"> 
   <a href="https://www.gnu.org/software/octave/" target="_blank">
