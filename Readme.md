@@ -113,15 +113,19 @@
   </a>
 </p>
 
-<h3 align="center">👉 Data Science & AI</h3>
+<h3 align="center">👉 ML & AI</h3>
 <p align="center">
-<a><i> I would to like explore more software and tools in future . </i></a>
+<a><i> I little bit work on octave. </i></a>
 </p>
 <p align="center"> 
   <a href="https://www.gnu.org/software/octave/" target="_blank">
     <img src="https://img.shields.io/badge/octave-023456.svg?style=for-the-badge&logo=octave&logoColor=white" alt="octave"/> 
   <a/>
 </p>
+<p align="center">
+<a><i> I would to like explore more ML And AI in future . </i></a>
+</p>
+
 <p align="center">  
   <a href="https://pytorch.org/" target="_blank">
     <img src="https://img.shields.io/badge/Pytorch-FF4500.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="pytorch"/> 
