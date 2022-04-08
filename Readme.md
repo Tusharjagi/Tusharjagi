@@ -108,6 +108,9 @@
   <a href="https://ubuntu.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
   </a>
+  <a href="https://www.postman.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/POSTMAN-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
+  </a>
 </p>
 
 <h3 align="center">👉 Data Science & AI</h3>
