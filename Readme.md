@@ -55,10 +55,7 @@
       alt="bootstrap"/>
   <a href="https://angular.io/docs" target="_blank">
     <img src="https://img.shields.io/badge/Angular-B52E31.svg?style=for-the-badge&logo=angular&logoColor=white" alt="angular" />
-  </a>
-    <a href="https://reactjs.org" target="_blank">
-    <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white" alt="react" />
-  </a>
+ 
 </p>
 
 <h3 align="center">👉 Backend Development</h3>
