@@ -35,6 +35,10 @@
     <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"
       alt="typescript"/>
   </a>
+  <a href="https://dart.dev/" target="_blank"> 
+    <img src="https://img.shields.io/badge/dart-1C2834.svg?style=for-the-badge&logo=dart&logoColor=white"
+      alt="dart"/>
+  </a>
 </p>
 
 <h3 align="center">👉 Frontend Development</h3>
