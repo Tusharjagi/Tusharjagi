@@ -4,13 +4,13 @@
 <h3> <img src="Assets/man.png" width="80"/> &nbsp;  About Me</h3> 
 <br>
 
-- <img src="Assets/Blow.gif" width="20"/> I'm Working on better version of mine .   
-- 🌱 Currently I am learn Machine Learning .
-- ❤️ My favorite language : C++ .
+- <img src="Assets/Blow.gif" width="20"/> Learning and improving knowlege is best adiction .   
+- 🌱 Currently I'm improving my knowledge in App developing and Web Developing  .
+- ❤️ My favorite language : C++ , JavaScript .
 - 💬 Ask me about : Technology, History and Astrophysics .
-- 💜 Interests: 🎸 Guitar, 🎮 Video Games, 🏋️ Health & Fitness, 🌌 Astrophysics .
+- 💜 Interests: 🎸 Guitar, ☯️ Spirituality , 🏋️ Health & Fitness, 🌌 Astrophysics .
 - ⚡ Fun fact: If I could have any superpower, it would be 🤖 IRON MAN .
-- 🔮 Plan for next year : Learn Web3 .
+- 🔮 Plan for next year : Improving the knowledge in blockchain .
 
 
 <img src="Assets/line.gif" />
