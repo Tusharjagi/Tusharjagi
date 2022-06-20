@@ -7,8 +7,8 @@
 - <img src="Assets/Blow.gif" width="20"/> I'm Working on better version of mine .   
 - 🌱 Currently I am learn Machine Learning .
 - ❤️ My favorite language : C++ .
-- 💬 Ask me about : anything I am happy to help .
-- 💜 Interests: 🎸 Guitar, 🎮 Video Games, 🏔️ Travel, 🏋️ Health & Fitness, 🌌 Space Technology .
+- 💬 Ask me about : Technology, History and Astrophysics .
+- 💜 Interests: 🎸 Guitar, 🎮 Video Games, 🏋️ Health & Fitness, 🌌 Astrophysics .
 - ⚡ Fun fact: If I could have any superpower, it would be 🤖 IRON MAN .
 - 🔮 Plan for next year : Learn Web3 .
 
