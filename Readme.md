@@ -7,7 +7,7 @@
 - <img src="Assets/Blow.gif" width="20"/> Learning and improving knowlege is best adiction .   
 - 🌱 Currently I'm improving my knowledge in App developing and Web Developing  .
 - ❤️ My favorite language : C++ , JavaScript .
-- 💬 Ask me about : Technology, History and Astrophysics .
+- 💬 Ask me about : Technology and Health & Fitness.
 - 💜 Interests: 🎸 Guitar, ☯️ Spirituality , 🏋️ Health & Fitness, 🌌 Astrophysics .
 - ⚡ Fun fact: If I could have any superpower, it would be 🤖 IRON MAN .
 - 🔮 Plan for next year : Improving the knowledge in blockchain .
