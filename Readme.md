@@ -83,6 +83,15 @@
   </a>
 </p>
 
+  <h3 align="center">👉 App Development </h3>
+<p align="center">
+  <a href="https://flutter.dev/" target="_blank"> 
+    <img src="https://img.shields.io/badge/flutter-8B94ED.svg?style=for-the-badge&logo=flutter&logoColor=white"
+      alt="flutter"/> 
+  </a> 
+
+</p>
+
 <h3 align="center">👉 Version Control & CI/CD</h3>
 <p align="center">
   <a href="https://git-scm.com/" target="_blank">
