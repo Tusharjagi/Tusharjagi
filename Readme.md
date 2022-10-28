@@ -9,7 +9,7 @@
 - 💬 Ask me about : Technology, Health & Fitness . 
 - 💜 Interests: 🎸 Guitar, ☯️ Ancient History , 🏋️ Health & Fitness, 🌌 Astrophysics and space world.
 - ⚡ Fun fact: If I could have any superpower, it would be 🤖 IRON MAN .
-- 🔮 Plan for next year : working on different web technology and working on a blockChain technology .
+- 🔮 Plan for next year : working on various web technology and working on a blockChain technology .
 
 <img src="Assets/line.gif" />
 
