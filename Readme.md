@@ -62,7 +62,7 @@
     <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
       alt="bootstrap"/>
       </a>
-       <a href="https://getbootstrap.com" target="_blank">
+       <a href="https://mui.com/" target="_blank">
     <img src="https://img.shields.io/badge/mui-00b0ff.svg?style=for-the-badge&logo=MUI&logoColor=white"
       alt="bootstrap"/>
       </a>
