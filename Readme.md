@@ -116,7 +116,7 @@
   <a href="https://docs.github.com/en" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
-  <a href="https://docs.github.com/en" target="_blank">
+  <a href="https://about.gitlab.com/" target="_blank">
     <img src="https://img.shields.io/badge/gitlab-554488.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="github" />
   </a>
 </p>
