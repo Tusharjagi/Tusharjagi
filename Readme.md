@@ -49,10 +49,7 @@
   <a href="https://www.w3schools.com/cssref/" target="_blank">
     <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=black" alt="css"/> 
   </a>
-  <a href="https://angular.io/docs" target="_blank">
-    <img src="https://img.shields.io/badge/Angular-B52E31.svg?style=for-the-badge&logo=angular&logoColor=white" alt="angular" />
-  </a>
-    <a href="https://reactjs.org/" target="_blank">
+  <a href="https://reactjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/React-61DBFB.svg?style=for-the-badge&logo=react&logoColor=white" alt="angular" />
   </a>
     <a href="https://nextjs.org/" target="_blank">
