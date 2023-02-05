@@ -6,7 +6,7 @@
 - <img src="Assets/Blow.gif" width="20"/> Learning and improving knowledge .
 - 🌱 Currently I'm trying to stable in a web world .
 - ❤️ My favorite language : C++, JavaScript .
-- 💬 Ask me about : Technology, Health & Fitness . 
+- 💬 Ask me about : Technology, Health & Fitness .
 - 💜 Interests: 🎸 Guitar, ☯️ Ancient History , 🏋️ Health & Fitness, 🌌 Astrophysics and space world.
 - ⚡ Fun fact: If I could have any superpower, it would be 🤖 IRON MAN .
 - 🔮 Plan for next year : working on various web technology and working on a blockChain technology .
@@ -153,6 +153,7 @@
 [<img src=Assets/linkedin.png width="50" />](https://www.linkedin.com/in/tushar-jagi-519025215/)&nbsp;&nbsp;&nbsp;
 [<img src=Assets/ig-logo.png width="44"/>](https://www.instagram.com/tusharjagi)&nbsp;&nbsp;&nbsp;
 [<img src=Assets/Dev.png width="50"/>](https://dev.to/tusharjagi)&nbsp;&nbsp;&nbsp;
+[<img src=Assets/medium.png width="50"/>](https://medium.com/@tusharjagi)&nbsp;&nbsp;&nbsp;
 [<img src=Assets/gmail.png width="50"/>](mailto:tusharjagi@gmail.com)&nbsp;&nbsp;&nbsp;
 
 <div align="right">
