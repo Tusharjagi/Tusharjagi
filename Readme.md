@@ -7,7 +7,7 @@
 - 🌱 Currently I'm trying to stable in a web world .
 - ❤️ My favorite language : C++, JavaScript .
 - 💬 Ask me about : Technology, Health & Fitness .
-- 💜 Interests: 🎸 Guitar, ☯️ Ancient History , 🏋️ Health & Fitness, 🌌 Astrophysics and space world.
+- 💜 Interests: 🎸 Guitar, ☯️ Ancient History , 🏋️ Health & Fitness, 🌌 Space Exploration.
 - ⚡ Fun fact: If I could have any superpower, it would be 🤖 IRON MAN .
 - 🔮 Plan for next year : working on various web technology and working on a blockChain technology .
 
